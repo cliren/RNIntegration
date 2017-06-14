@@ -7,6 +7,18 @@
 Follow the steps at https://facebook.github.io/react-native/docs/integration-with-existing-apps.html
 
 
+#### Development
+
+
+```
+git clone git@github.com:cliren/RNIntegration.git
+cd RNIntegration
+npm install
+```
+
+After successfully running the above, open ios project and run.
+
+
 #### Issues
 
 Currently using the following combination but tried a different versions
@@ -14,8 +26,8 @@ Currently using the following combination but tried a different versions
 
 ```
 
- "react": "16.0.0-alpha.12",
- "react-native": "0.45.1"
+"react": "15.4.1",
+"react-native": "0.42.3"
     
 ```
 
